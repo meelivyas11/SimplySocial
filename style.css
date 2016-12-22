@@ -1,0 +1,56 @@
+/* CSS Document */
+body
+{
+ background-color:#FFFFFF;
+}
+.middle1{
+     color:#0000FF;
+	 font-family:Verdana, Arial, Helvetica, sans-serif;
+	 font-size:12px;
+	 width:60%;
+	 height:60%;
+	 background-color:#00CC33;
+	 
+}
+.middle2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 25x;
+	font-style: oblique;
+	color:#336600;
+	width:40%;
+	height:60%;
+	background-color:#00FFCC;
+	}
+	
+.register
+   {
+   font-family: Arial, Helvetica, sans-serif;
+	font-size: 25x;
+	font-style: oblique;
+	color:#336600;
+	width:100%;
+	height:60%;
+	background-color:#00FFCC;
+   }	
+	
+#header
+   {
+   background-color:#CCCCCC;
+   font-size:50px;
+   width:100%;
+   height:30%;
+   vertical-align:top;
+   }	
+   
+#footer
+   {
+   background-color:#D7AEFF;
+   width:100%;
+   height:10%;
+    }   
+	
+#options
+    {
+	background:#9966FF;
+	font-size:24px;
+	} 
