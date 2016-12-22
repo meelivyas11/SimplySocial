@@ -1,5 +1,5 @@
 # What is it?
-This is basic social networking built to explore PHP. Screen shots of the application can be seen from [here] ()
+This is basic social networking built to explore PHP. <b> Screen shots of the application can be seen from [here] (https://github.com/meelivyas11/SimplySocial/blob/master/SimplySocial.docx) </b>
 
 # How do I set up?
 ## Software Requirement
